@@ -65,7 +65,7 @@
     "enzyme": "3.7.0",
     "enzyme-adapter-react-16": "1.7.0",
     "enzyme-to-json": "3.3.4",
-    "es6-plato": "1.0.17",
+    "es6-plato": "1.1.0",
     "eslint": "5.0.1",
     "eslint-config-airbnb": "17.0.0",
     "eslint-config-prettier": "2.9.0",
