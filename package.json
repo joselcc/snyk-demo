@@ -189,7 +189,7 @@
     "sumo-logger": "1.5.0",
     "supports-color": "5.4.0",
     "svg-loader": "0.0.2",
-    "testcafe": "0.23.2",
+    "testcafe": "13.1.1",
     "testcafe-browser-provider-browserstack": "1.5.0",
     "testcafe-browser-tools": "1.6.5",
     "thread-loader": "1.2.0",
