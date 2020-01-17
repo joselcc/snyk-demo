@@ -43,7 +43,7 @@
     "autoprefixer": "8.6.4",
     "aws-sdk": "2.224.1",
     "axe-testcafe": "1.1.0",
-    "axios": "0.18.0",
+    "axios": "0.19.1",
     "babel-cli": "6.26.0",
     "babel-errors": "^1.1.1",
     "babel-eslint": "10.0.1",
