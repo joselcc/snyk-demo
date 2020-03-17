@@ -138,7 +138,7 @@
     "jest-junit": "6.3.0",
     "jsdom": "11.5.1",
     "keychain": "1.3.0",
-    "lerna": "3.13.4",
+    "lerna": "3.18.0",
     "lint-staged": "7.3.0",
     "load-css-file": "1.0.0",
     "load-script": "1.0.0",
@@ -199,7 +199,7 @@
     "react-transition-group": "2.2.1",
     "redbox-react": "1.6.0",
     "regenerator-runtime": "0.12.0",
-    "replace-in-file": "3.4.3",
+    "replace-in-file": "3.4.4",
     "request": "2.88.0",
     "request-promise": "4.2.2",
     "rimraf": "2.6.2",
@@ -209,7 +209,7 @@
     "source-map-support": "0.5.11",
     "spacetime": "4.2.2",
     "speed-measure-webpack-plugin": "1.3.1",
-    "storybook-chromatic": "1.3.3",
+    "storybook-chromatic": "2.2.0",
     "strip-indent": "^2.0.0",
     "strummer": "2.5.0",
     "style-loader": "0.21.0",
@@ -232,6 +232,6 @@
     "webpack-dev-middleware": "3.7.2",
     "webpack-hot-middleware": "2.25.0",
     "worker-farm": "1.6.0",
-    "yargs": "12.0.5"
+    "yargs": "13.1.0"
   }
 }
