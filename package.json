@@ -84,7 +84,7 @@
     "conventional-changelog-bitbucket-custom": "^1.1.1",
     "cookie": "^0.3.1",
     "cookie-parser": "1.4.3",
-    "copy-webpack-plugin": "5.1.1",
+    "copy-webpack-plugin": "6.0.0",
     "copyfiles": "2.1.1",
     "cross-env": "6.0.3",
     "cross-fetch": "^3.0.4",
