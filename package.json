@@ -92,7 +92,7 @@
     "css-loader": "2.1.1",
     "date-fns": "1.29.0",
     "dedent": "0.7.0",
-    "documentation": "9.3.1",
+    "documentation": "13.0.2",
     "dotenv": "6.0.0",
     "downshift": "3.4.1",
     "enzyme": "3.10.0",
