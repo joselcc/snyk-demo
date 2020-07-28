@@ -151,7 +151,7 @@
     "lodash.merge": "4.6.2",
     "lodash.uniqby": "4.7.0",
     "lodash.uniqueid": "4.0.1",
-    "marked": "0.7.0",
+    "marked": "1.1.1",
     "marksy": "6.0.3",
     "modernizr": "3.8.0",
     "morgan": "1.9.1",
