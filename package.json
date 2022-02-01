@@ -26,7 +26,7 @@
     "@loadable/server": "5.13.1",
     "@loadable/webpack-plugin": "5.13.0",
     "@mapbox/geojson-extent": "0.3.2",
-    "@mdx-js/loader": "1.6.16",
+    "@mdx-js/loader": "2.0.0",
     "@next/polyfill-nomodule": "9.5.2",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.1",
     "@react-mock/localstorage": "^0.1.2",
