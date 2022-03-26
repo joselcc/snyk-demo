@@ -55,7 +55,7 @@
     "apollo-link-http": "1.5.17",
     "app-root-dir": "1.0.2",
     "ascii-box": "1.1.2",
-    "assets-webpack-plugin": "5.0.3",
+    "assets-webpack-plugin": "5.0.4",
     "autoprefixer": "9.8.6",
     "aws-sdk": "2.726.0",
     "axe-testcafe": "1.1.0",
