@@ -230,7 +230,7 @@
     "url": "0.11.0",
     "url-parse": "^1.4.1",
     "webpack": "4.44.1",
-    "webpack-bundle-analyzer": "3.8.0",
+    "webpack-bundle-analyzer": "4.0.0",
     "webpack-dev-middleware": "3.7.2",
     "webpack-hot-middleware": "2.25.0",
     "worker-farm": "1.7.0",
