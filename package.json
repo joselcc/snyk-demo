@@ -136,7 +136,7 @@
     "identity-obj-proxy": "3.0.0",
     "inquirer": "7.3.0",
     "intersection-observer": "0.11.0",
-    "jest": "26.1.0",
+    "jest": "28.0.0",
     "jest-environment-jsdom": "26.1.0",
     "jest-environment-jsdom-global": "2.0.4",
     "jest-junit": "11.0.1",
