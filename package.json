@@ -76,7 +76,7 @@
     "cache-loader": "4.1.0",
     "chalk": "4.1.0",
     "cheerio": "1.0.0-rc.2",
-    "chromatic": "5.0.0",
+    "chromatic": "6.0.0",
     "classnames": "2.2.6",
     "colors": "1.4.0",
     "commitizen": "4.2.1",
