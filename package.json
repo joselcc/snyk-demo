@@ -103,7 +103,7 @@
     "enzyme-to-json": "3.5.0",
     "error-stack-parser": "2.0.6",
     "es6-plato": "1.2.3",
-    "eslint": "7.7.0",
+    "eslint": "9.0.0",
     "eslint-config-airbnb": "18.2.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-import-resolver-node": "0.3.4",
